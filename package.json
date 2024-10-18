@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
     "nuxt": "^3.13.0",
+    "stacklab-one-ui": "^0.0.4",
     "vue": "latest",
     "vue-router": "latest"
   }
