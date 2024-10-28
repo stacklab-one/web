@@ -7,13 +7,17 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "nuxt": "nuxt"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.18.7",
     "@nuxtjs/tailwindcss": "^6.12.2",
     "nuxt": "^3.13.0",
-    "stacklab-one-ui": "^0.0.4",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
   }
 }

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "biomejs.biome",
+        "Vue.volar",
+        "bradlc.vscode-tailwindcss",
+        "oven.bun-vscode",
+        "dotenv.dotenv-vscode",
+        "antfu.iconify",
+        "codeandstuff.package-json-upgrade"
+    ]
+}
